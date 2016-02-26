@@ -1,6 +1,6 @@
-# Addy's dotfiles.
+# Hassans's dotfiles.
 
-This repo contains my personal dotfiles and are heavily based on [paul](https://github.com/paulirish/dotfiles/) and [mathias](https://github.com/mathiasbynens/dotfiles/)'s.
+This repo contains my personal dotfiles and is forked from [Addy Osmani](https://github.com/addyosmani/dotfiles).
 
 ## Some differences
 
